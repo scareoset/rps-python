@@ -3,12 +3,12 @@ a rock paper scissors tournament written in python
 
 ## shoot options
 🪨 rock
-    - win
-        - ✂️ scissors
-    - lose
-        - 📄 paper
-    - draw
-        - 🪨 rock
+    win
+        ✂️ scissors
+    lose
+        📄 paper
+    draw
+        🪨 rock
 📄 paper
     - win
         - 🪨 rock
