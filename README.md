@@ -3,25 +3,45 @@ a rock paper scissors tournament written in python
 
 ## shoot options
 🪨 `rock`
+
     win
+    
         ✂️ `scissors`
+        
     lose
+    
         📄 `paper`
+        
     draw
+    
         🪨 `rock`
+        
 📄 `paper`
+
     win
+    
         🪨 `rock`
+        
     lose
+    
         ✂️ `scissors`
+        
     draw
+    
         📄 `paper`
+        
 ✂️ `scissors`
+
     win
+    
         📄 `paper`
+        
     lose
+    
         🪨 `rock`
+        
     draw
+    
         ✂️ `scissors`
 
 ## matches
